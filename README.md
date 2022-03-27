@@ -14,3 +14,11 @@ Media, T. (2019). Dynamic Landing Page | JavaScript [YouTube Video]. In YouTube.
 
 Build A Meditation App With Javascript HTML & CSS!
 By Dev Ed Container: YouTube Year: 2019 URL: https://www.youtube.com/watch?v=oMBXdZzYqEk
+
+Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript
+https://www.youtube.com/watch?v=xV7S8BhIeBo&t=12089s
+https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/
+
+Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto
+https://www.youtube.com/watch?v=Wn_Kb3MR_cU
+https://github.com/adrianhajdin/project_web3.0
